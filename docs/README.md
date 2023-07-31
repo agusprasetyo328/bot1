@@ -58,17 +58,3 @@ Are you ready to delve deeper into the mysteries of BloomBot? To unlock the true
 Unlock the secrets of BloomBot's arcane commands by visiting our [Documentation](https://bit.ly/bloombot-docs) and uncovering the knowledge that awaits.
 
 ---
-
-## 💌 **Contact: Seek Guidance from the Mystical Realm**
-
-Should you find yourself in need of guidance, facing perplexing conundrums, or simply desiring the company of fellow enchanters, do not hesitate to reach out. Our team of mystical developers stands ready to assist you on your magical journey.
-
-| **Contact Details**                           |
-| --------------------------------------------- |
-| ✉️ **Email:** support@bloombot.com            |
-| 📱 **WhatsApp:** +918436686758, +918250889325 |
-| 🗡️ **Telegram:** @bloombot_support            |
-
----
-
-Thank you for choosing to embark on this _extraordinary adventure_ with BloomBot! As you navigate the whimsical paths of WhatsApp group management, may your group be forever enchanted by the magic that BloomBot brings. 🤖✨
